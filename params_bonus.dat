@@ -1,0 +1,5 @@
+geometry test.pgm
+timesteps 10
+omega 1.9
+vtk_file vtk/ldc.vtk
+vtk_step 1
